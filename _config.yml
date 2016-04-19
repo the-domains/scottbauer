@@ -1,7 +1,7 @@
 name: ScottBauer
 favicon: null
-layout_spectrum: 0.179914
-typography_spectrum: 0.2948442
+layout_spectrum: 0.88642
+typography_spectrum: 0.06615
 title: "Scott Bauer's Interweb Home"
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#0E0C0B'
-    - '#FFFFFC'
-    - '#2F4CCF'
-    - '#E1766D'
-    - '#66A30D'
+    - '#010101'
+    - '#dbc792'
+    - '#312a18'
+    - '#fafafa'
+    - '#988f6f'
   brandStrength: 1
-  lightness: 0.2795269
-  saturation: 0.594522
-  rhythmicContrast: 0.9790547
+  lightness: 0.375
+  saturation: 0.9375
+  rhythmicContrast: 0.75
 purpose: []
